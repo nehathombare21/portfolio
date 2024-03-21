@@ -1,13 +1,13 @@
-# portfolio Projects
+# Portfolio Projects
 nehathombare21.github.io/portfolio
 #### *You can also take a look at my Linkedin : [Neha Thombare](https://www.linkedin.com/in/neha-hemantkumar-thombare-496627252/)* <br />
 
-###Education
-BE Electronics and Telecommunication Engineering
-MS in Information Sysytem from Cleveland State University
+### *Education* <br/>
+*BE Electronics and Telecommunication Engineering* <br/>
+*MS in Information Sysytem from Cleveland State University* <br/>
 
-### Work Experience
-Database Consultant @ SCORG International Consulting Pvt.Ltd
+### *Work Experience* <br/>
+*Database Consultant @ SCORG International Consulting Pvt.Ltd * <br/>
 -Implemented database solutions in MS SQL Server & Azure, optimizing efficiency & reducing storage costs. Leveraged Power BI for insightful visualizations & automated data management, enhancing operational efficiency.
 -MS, SQL, Azure, Power BI
 
