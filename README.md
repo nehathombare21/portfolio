@@ -1,5 +1,6 @@
-# portfolio
+# portfolio Projects
 nehathombare21.github.io/portfolio
+#### *You can also take a look at my Linkedin : [Neha Thombare](https://www.linkedin.com/in/neha-hemantkumar-thombare-496627252/)* <br />
 
 ###Education
 BE Electronics and Telecommunication Engineering
