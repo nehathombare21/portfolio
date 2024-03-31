@@ -36,3 +36,6 @@
 
 #### *3.* *Excel - Applied Regression* 
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel%20for%20Business%20Analytics.xlsx)** <br/>
+
+#### *4.* *Excel - Piviot Table and Advance Analysis*
+*Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel-%20Piviot%20Tables%20and%20advance%20analysis.xlsx)** <br/>
