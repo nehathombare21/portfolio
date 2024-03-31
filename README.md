@@ -29,10 +29,10 @@
 
 # *Projects* <br/>
 #### *1.* *Python - The Business of Movies* 
-*Complete Project analysis:* **[Here](https://github.com/nehathombare21/portfolio/edit/main/README.md#:~:text=The%20Business%20of-,Movies,-.ipynb)** <br/>
+*Complete Project analysis:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/The%20Business%20of%20Movies.ipynb)** <br/>
 
 #### *2.* *Excel - Excel for business analytics*
-*Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/edit/main/README.md#:~:text=Excel%20for%20Business-,Analytics,-.xlsx)** <br/>
+*Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel%20for%20Business%20Analytics.xlsx)** <br/>
 
 #### *3.* *Excel - Applied Regression* 
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel%20for%20Business%20Analytics.xlsx)** <br/>
