@@ -1,4 +1,8 @@
-# Portfolio Projects
+# Neha Thombare
+<img align ="Left" width="150" height="150" src="https://github.com/nehathombare21/portfolio/blob/main/NehaProfilePhoto.jpg">
+
+
+### *Data Analyst Portfolio* <br/>
 #### *Github: [Github](https://github.com/nehathombare21/portfolio)* <br/>
 #### *Personal Website: [Portfolio](datascienceportfol.io/nehatportfolio)* <br/>
 #### *Linkedin : [Neha Thombare](https://www.linkedin.com/in/neha-hemantkumar-thombare-496627252/)* <br />
@@ -14,7 +18,7 @@
 
 
 #### *Software Industrial Training @ tietoevry* <br/>
-*Developed ASP.NET MVC backend and PostgresSQL database, optimizing performance and reducing response time. Managed SDLC, ensuring ahead-of-schedule delivery with decreased post-release bugs. Utilized AWS services for cost-efficient infrastructure maintenance and enhanced system scalability.* <br/>
+*Developed ASP.NET MVC backend and PostgresSQL database, optimizing performance and reducing response time. Managed SDLC for microinsurance industry, ensuring ahead-of-schedule delivery with decreased post-release bugs. Utilized AWS services for cost-efficient infrastructure maintenance and enhanced system scalability.* <br/>
 *SQL, AWS, C++, C#, SDLC* <br/>
 
 # *Technical Skills* <br/>
