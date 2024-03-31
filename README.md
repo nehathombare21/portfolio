@@ -3,7 +3,7 @@
 
 #### *Data Analyst Portfolio*
 #### *Github: [Github](https://github.com/nehathombare21/portfolio)* 
-#### *Personal Website: [Portfolio](datascienceportfol.io/nehatportfolio)*
+#### *Personal Website: [Portfolio](https://www.datascienceportfol.io/nehatportfolio)*
 #### *Linkedin : [Neha Thombare](https://www.linkedin.com/in/neha-hemantkumar-thombare-496627252/)* <br />
 
 # *Education* <br/>
