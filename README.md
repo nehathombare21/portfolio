@@ -1,7 +1,7 @@
 # Neha Thombare
 <img align ="Left" width="150" height="150" src="https://github.com/nehathombare21/portfolio/blob/main/NehaProfilePhoto.jpg">
 
-### *Data Analyst Portfolio* <br/>
+#### *Data Analyst Portfolio*
 #### *Github: [Github](https://github.com/nehathombare21/portfolio)* 
 #### *Personal Website: [Portfolio](datascienceportfol.io/nehatportfolio)*
 #### *Linkedin : [Neha Thombare](https://www.linkedin.com/in/neha-hemantkumar-thombare-496627252/)* <br />
@@ -11,11 +11,11 @@
 *MS in Information Sysytem from Cleveland State University* <br/>
 
 # *Work Experience* <br/>
-#### *Database Consultant @ SCORG International Consulting Pvt.Ltd* <br/>
+#### *Database Consultant @ SCORG International Consulting Pvt.Ltd*
 *Implemented database solutions in MS SQL Server & Azure, optimizing efficiency & reducing storage costs. Leveraged Power BI for insightful visualizations & automated data management, enhancing operational efficiency.* <br/>
 *MS, SQL, Azure, Power BI* <br/>
 
-#### *Software Industrial Training @ tietoevry* <br/>
+#### *Software Industrial Training @ tietoevry*
 *Developed ASP.NET MVC backend and PostgresSQL database, optimizing performance and reducing response time. Managed SDLC for microinsurance industry, ensuring ahead-of-schedule delivery with decreased post-release bugs. Utilized AWS services for cost-efficient infrastructure maintenance and enhanced system scalability.* <br/>
 *SQL, AWS, C++, C#, SDLC* <br/>
 
@@ -28,11 +28,11 @@
 *Agile Development, Database Development, ETL Processes* <br/>
 
 # *Projects* <br/>
-#### *1.* *Python - The Business of Movies* <br/>
+#### *1.* *Python - The Business of Movies* 
 *Complete Project analysis:* **[Here](https://github.com/nehathombare21/portfolio/edit/main/README.md#:~:text=The%20Business%20of-,Movies,-.ipynb)** <br/>
 
-#### *2.* *Excel - Excel for business analytics* <br/>
+#### *2.* *Excel - Excel for business analytics*
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/edit/main/README.md#:~:text=Excel%20for%20Business-,Analytics,-.xlsx)** <br/>
 
-#### *3.* *Excel - Applied Regression* <br/>
+#### *3.* *Excel - Applied Regression* 
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel%20for%20Business%20Analytics.xlsx)** <br/>
