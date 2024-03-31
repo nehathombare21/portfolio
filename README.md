@@ -31,11 +31,14 @@
 #### *1.* *Python - The Business of Movies* 
 *Complete Project analysis:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/The%20Business%20of%20Movies.ipynb)** <br/>
 
-#### *2.* *Excel - Excel for business analytics*
+#### *2.* *Oracle - Database for Healthinsurance Company* <br/>
+*File:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Oracle%20DB_Health%20Insurance%20Company.docx)** <br/>
+
+#### *3.* *Excel - Excel for business analytics*
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel%20for%20Business%20Analytics.xlsx)** <br/>
 
-#### *3.* *Excel - Applied Regression* 
+#### *4.* *Excel - Applied Regression* 
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel%20for%20Business%20Analytics.xlsx)** <br/>
 
-#### *4.* *Excel - Piviot Table and Advance Analysis*
+#### *5.* *Excel - Piviot Table and Advance Analysis*
 *Excel Sheet:* **[Here](https://github.com/nehathombare21/portfolio/blob/main/Excel-%20Piviot%20Tables%20and%20advance%20analysis.xlsx)** <br/>
